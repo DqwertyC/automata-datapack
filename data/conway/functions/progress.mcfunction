@@ -1,0 +1,1 @@
+execute if data storage minecraft:state {update_finished:1b,simulation_running:1b} run function conway:start_update
