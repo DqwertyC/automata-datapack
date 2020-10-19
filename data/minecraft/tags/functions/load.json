@@ -1,5 +1,6 @@
 {
   "values": [
-    "conway:on_load"
+    "conway:on_load",
+    "wolfram:on_load"
   ]
 }
